@@ -1,7 +1,9 @@
-Alliah Rose Santos - TESTER
-Arlyn Seno - TESTER
-Patrick Miguell Alon - SERVER OS
-Vince Tuan - HYBRID
-Edgardo Jose Tolentino - JAVA
-John Adrix De Guzman - HYBRID
-Eryc Pablo - JAVA
+Alliah Rose Santos - TESTER -1 0-01-2024
+Arlyn Seno - TESTER - 10-01-2024
+Patrick Miguell Alon - SERVER OS - 10-01-2024
+Vince Tuan - HYBRID - 10-01-2024
+Edgardo Jose Tolentino - JAVA - 10-01-2024
+John Adrix De Guzman - HYBRID - 10-01-2024
+Eryc Pablo - JAVA - 10-01-2024
+
+
